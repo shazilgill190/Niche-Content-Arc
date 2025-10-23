@@ -4,6 +4,8 @@ A smart content research assistant that combines AI and live web data to deliver
 
 Discover, analyze, and plan content for any niche using real-time data, verified sources, and platform-specific insights.
 
+https://idea-to-spark-52.lovable.app
+
 🚀 Overview
 
 Creator Companion helps creators turn niche ideas into actionable content strategies.
